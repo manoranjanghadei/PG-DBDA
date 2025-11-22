@@ -1,0 +1,14 @@
+10.
+
+Create the following table using appropriate SQL datatypes and insert the provided rows.
+
+Employee
+Columns: eno, ename, basic, incentive
+Rows:
+1, Rajesh, 20000, 1500
+2, Sarita, 25000, 1000
+3, Meera, 15000, 500
+4, Jitesh, 30000, 3000
+5, Ramesh, 12000, 3000
+
+Write an SQL query to list all employees having basic > 15000.

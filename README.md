@@ -1,2 +1,17 @@
-# PG-DBDA
-PG-DBDA
+# PG-DBDA Notes & Assignments
+
+This repository contains my notes and assignments for the PG-DBDA course at Know-It, Pune.
+
+## Subjects
+
+- **SQL**
+- **LINUX**
+- **PYTHON**
+- **TABLEAU**
+- **JAVA**
+- **ADVANCE ANALYTICS**
+- **BIG DATA**
+
+---
+
+*Sections will be updated as I add more material.*

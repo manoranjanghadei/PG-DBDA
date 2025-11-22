@@ -5,13 +5,7 @@ This repository contains my notes and assignments for the PG-DBDA course at Know
 ## Subjects
 
 - **SQL**
-- **LINUX**
-- **PYTHON**
-- **TABLEAU**
-- **JAVA**
-- **ADVANCE ANALYTICS**
-- **BIG DATA**
 
----
+----
 
 *Sections will be updated as I add more material.*

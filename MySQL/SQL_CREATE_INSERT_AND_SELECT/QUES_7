@@ -1,0 +1,4 @@
+7. Write an SQL query to display vid, vname, price, details, and total price for each vehicle.
+
+Note: total price = price - discount
+
